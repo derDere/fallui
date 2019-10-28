@@ -1,0 +1,55 @@
+                                      Centered Text
+
+------------------------------------------------------------------------------------------------
+
+[Menu Option 1]
+[Menu Option 2]
+
+Text Block Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
+accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+takimata sanctus est Lorem ipsum dolor sit amet.
+
+[Menu Option 3]
+[Menu Option 4]
+[Menu Option 5]
+
+################################################################################################
+# Boxed Text Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod   #
+# tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et   #
+# accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus #
+# est Lorem ipsum dolor sit amet.                                                              #
+################################################################################################
+
+[Menu Option 6]
+[Menu Option 7]
+[Menu Option 8]
+
+################################################################################################
+#                               Some Centered and boxed text                                   #
+#           Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy           #
+#               eirmod tempor invidunt ut labore et dolore magna aliquyam erat,                #
+#                                   sed diam voluptua.                                         #
+#                At vero eos et accusam et justo duo dolores et ea rebum.                      #
+################################################################################################
+
+[Menu Option 9]
+[Menu Option 10]
+[Menu Option 11]
+
+                                                                              Right aligned text
+
+[Menu Option 12]
+[Menu Option 13]
+[Menu Option 14]
+
+Command Output: ls -l total 68 (would actuaky start at "total")
+-rw-rw-rw- 1 user0 user0  2199 Oct 27 14:08 example.txt
+-rwxrwxrwx 1 user0 user0  9216 Oct 27 13:50 FallUI
+-rw-rw-rw- 1 user0 user0 35149 Oct 27 13:41 LICENSE
+-rw-rw-rw- 1 user0 user0   260 Oct 27 13:49 main.cpp
+-rw-rw-rw- 1 user0 user0   127 Oct 27 13:50 makefile
+-rw-rw-rw- 1 user0 user0    59 Oct 27 13:44 README.org
